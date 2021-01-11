@@ -66,5 +66,5 @@
 
               logging.json: true
               logging.metrics.enabled: false
-                
+ ####       ->  docker-compose -f docker-compose1.yml -f docker-compose2.yml up
                   
